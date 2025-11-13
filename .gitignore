@@ -1,10 +1,10 @@
 # Maven target directory
-/target/
+target/
 
 # IDE-specific files
-/.idea/
-/.vscode/
-/*.iml
+# /.idea/
+# /.vscode/
+# /*.iml
 
 # Logs
 *.log
